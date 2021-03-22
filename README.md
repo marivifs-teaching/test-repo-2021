@@ -9,14 +9,6 @@ Try issuing a pull request to this repository:
 * Then push your changes to your fork
 * Finally, issue a pull request
 
-added to readme, Alec
-Roy Nunez 2
-
-added to readme, Xu Ren
-
-added to readme, Tianai
-
-
 # Smallest enclosing circle
 
 A readme for a small project that computes a minimum radius ball that includes 100% data and a minimum radius ball that includes the specified percent of data using user clicked data points.  
